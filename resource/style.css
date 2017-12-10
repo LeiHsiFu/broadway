@@ -1,0 +1,48 @@
+h1 {
+  font-family: "Helvetica";
+  font-size: 70px;
+  font-weight: bold;
+  color: White;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Helvetica";
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h3 {
+  font-family: "Helvetica";
+  font-size: 23px;
+  font-weight: bold;
+  color: White;
+  text-align: center;
+}
+
+#link {
+  font-family: "Helvetica";
+  font-size: 18px;
+  color: White;
+  text-align: center;
+}
+
+#subtitle {
+  font-family: "Helvetica";
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+}
+
+body {
+  text-align: center;
+}
+
+.footer {
+  font-family: "Helvetica";
+  font-size: 11px;
+  color: White;
+  background-color: dimgray;
+  text-align: left;
+}
